@@ -1,0 +1,14 @@
+[
+[1,"Royals", "Lorde", "Pure Heroine"],
+[2,"Killer Queen", "Queen", "Sheer Heart Attack"],
+[3,"King Kunta", "Kendrick Lamar", "To Pimp a Butterfly"],
+[4,"Ticket to Ride", "The Beatles", "Help!"],
+[5,"On the Road Again", "Willie Nelson", "Honeysuckle Rose"],
+[6,"Life in the Fastlane", "Eagles", "Hotel California"],
+[7,"Jet Airliner", "Steve Miller Band", "Book of Dreams"],
+[8,"Dangerous", "Big Data", "2.0"],
+[9,"She Blinded Me With Science", "Thomas Dolby", "The Golden Age of Wireless"],
+[10,"Science Fiction/Double Feature", "Richard O'Brien", "The Rocky Horror Picture Soundtrack"],
+[11,"Jungle Boogie", "Kool and the Gang", "Wild and Peaceful"],
+[12,"Jungle Love", "Morris Day and the Time", "Ice Cream Castle"]
+]
